@@ -5,4 +5,4 @@
 pip3 install -r requirements.txt
 
 ## Command
- * Add VPS Command - save <HOST> <USERNAME> <PASSWORD>
+ * Add VPS Command - save <\HOST> <\USERNAME> <\PASSWORD>
